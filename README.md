@@ -2,8 +2,7 @@
 
 ## 🌐 Демо  
 Сайт доступен по ссылке:  
-[**Открыть демо**](https://annakorotkikh.github.io/SurfSchool/) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/AnnaKorotkikh/SurfSchool?color=blue)](https://github.com/AnnaKorotkikh/SurfSchool/commits)
+[**Открыть демо**](https://annakorotkikh.github.io/SurfSchool/)
 
 Лендинг представляет школу серфинга с информацией о курсах, преподавателях и локациях для занятий.
 
